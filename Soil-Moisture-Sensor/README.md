@@ -1,4 +1,4 @@
-#Example: Soil Moisture Sensor Read with LabVIEW and Arduino.
+Example: Soil Moisture Sensor Read with LabVIEW and Arduino.
 ------------------------------------------------------
 Hardware Requirement
 ------------------------------------------------------
