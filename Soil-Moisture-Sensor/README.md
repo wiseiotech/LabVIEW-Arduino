@@ -14,3 +14,6 @@ Software Requirement
 
 Software Screenshot
 ------------------------------------------------------
+![This is an image](https://github.com/wiseiotech/LabVIEW-Arduino/blob/main/Soil-Moisture-Sensor/Screenshot/1_Wiring_Diagram.jpg)
+![This is an image](https://github.com/wiseiotech/LabVIEW-Arduino/blob/main/Soil-Moisture-Sensor/Screenshot/2_Upload_Arduino_Code.jpg)
+![This is an image](https://github.com/wiseiotech/LabVIEW-Arduino/blob/main/Soil-Moisture-Sensor/Screenshot/3_LabVIEW_Read_Values.jpg)
